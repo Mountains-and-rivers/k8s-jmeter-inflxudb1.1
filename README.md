@@ -27,13 +27,13 @@ monitoring-influxdb-659bdfd899-9tpnl   1/1     Running   0          93m
 
 ### 三， jmeter配置
 
-图片1
+![image](https://github.com/Mountains-and-rivers/k8s-jmeter-inflxudb1.1/blob/main/images/1.png)
 
 ### 四，Grafana数据源配置
 
-图片2
+![image](https://github.com/Mountains-and-rivers/k8s-jmeter-inflxudb1.1/blob/main/images/2.png)
 
-导入模板
+导入模板 验证
 
-验证
+![image](https://github.com/Mountains-and-rivers/k8s-jmeter-inflxudb1.1/blob/main/images/3.png)
 
